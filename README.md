@@ -37,4 +37,4 @@ Guardar os resultados no armazenamento persistente.
 
 4- Executar scripts de processamento no EC2.
 
-Armazena imagens originais e processadas.
+5- Armazena imagens originais e processadas.
