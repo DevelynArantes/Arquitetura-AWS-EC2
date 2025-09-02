@@ -19,7 +19,7 @@ Guardar os resultados no armazenamento persistente.
 
 1- EC2 (Elastic Compute Cloud):
 
- Responsável pelo processamento.
+  Responsável pelo processamento.
 
 
 2- EBS (Elastic Block Store):
@@ -38,3 +38,10 @@ Guardar os resultados no armazenamento persistente.
 4- Executar scripts de processamento no EC2.
 
 5- Armazena imagens originais e processadas.
+
+🛠️ Ferramentas utilizadas:
+
+1- Aplicativo Draw.io
+
+2- Conhecimento básico de AWS
+
